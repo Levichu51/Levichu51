@@ -1,16 +1,18 @@
-## Hi there 👋
+# Levi Barros García
+## 🧑‍🎓 Studying Computer Science & Engineering
 
-<!--
-**Levichu51/Levichu51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Languages:** Python, Java, C/C++, Julia
+- **Databases:** MySQL, Lucene
+- **Interests:** Machine Learning & Data Science applied in Motorsports
+
+---
+
+### 📫 Contact
+📧 **Email:** [soylevi@gmail.com](mailto:soylevi@gmail.com)  
+📎 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+📸 **Instagram:** [@yourusername](https://instagram.com/yourusername)  
