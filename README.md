@@ -2,7 +2,8 @@
 ## 🧑‍🎓 Studying Computer Science & Engineering
 
 ### 🚀 About Me
-
+What's up! 👋 I'm Levi, a passionate Computer Science & Engineering student at the University of A Coruña (UDC). I have a deep interest in Data Science, Artificial Intelligence, and Data Analysis, especially when applied to Motorsports like MotoGP and Formula 1.
+Raised in A Coruña, Galicia, Spain.
 ---
 
 ### 🛠️ Technical Skills
@@ -14,5 +15,5 @@
 
 ### 📫 Contact
 📧 **Email:** [soylevi@gmail.com](mailto:soylevi@gmail.com)  
-📎 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-📸 **Instagram:** [@yourusername](https://instagram.com/yourusername)  
+📎 **LinkedIn:** [levy-varross](www.linkedin.com/in/levy-varross-827b23330)  
+📸 **Instagram:** [@levichu51](https://www.instagram.com/levichuu51/)  
