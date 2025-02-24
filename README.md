@@ -3,6 +3,7 @@
 
 ### 🚀 About Me
 What's up! 👋 I'm Levi, a passionate Computer Science & Engineering student at the University of A Coruña (UDC). I have a deep interest in Data Science, Artificial Intelligence, and Data Analysis, especially when applied to Motorsports like MotoGP and Formula 1.
+
 Raised in A Coruña, Galicia, Spain.
 ---
 
