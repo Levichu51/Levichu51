@@ -17,5 +17,5 @@ Raised in A Coruña, Galicia, Spain.
 
 ### 📫 Contact
 📧 **Email:** [soylevi@gmail.com](mailto:soylevi@gmail.com)  
-📎 **LinkedIn:** [levy-varross](https://www.linkedin.com/in/levi-barros-garc%C3%ADa-827b23330/)  
+📎 **LinkedIn:** [levi-barros](https://www.linkedin.com/in/levi-barros-garc%C3%ADa-827b23330/)  
 📸 **Instagram:** [@levichu51](https://www.instagram.com/levichuu51/)  
