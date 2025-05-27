@@ -11,7 +11,7 @@ Raised in A Coruña, Galicia, Spain.
 ### 🛠️ Technical Skills
 - **Languages:** Python, Java, C/C++, Julia
 - **Databases:** MySQL, Lucene
-- **Interests:** Machine Learning & Data Science applied in Motorsports
+- **Interests:** Machine Learning & Data Science applied in Motorsports and Healthcare
 
 ---
 
